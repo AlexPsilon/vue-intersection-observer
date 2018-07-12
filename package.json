@@ -1,0 +1,26 @@
+{
+  "name": "vue-intersection-observer",
+  "version": "0.0.0",
+  "description": "Vue abstract component. The Intersection Observer API provides a way to asynchronously observe changes in the intersection of a target element with an ancestor element or with a top-level document's viewport.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexPsilon/vue-intersection-observer.git"
+  },
+  "keywords": [
+    "vue",
+    "abstract",
+    "coponent",
+    "intersection",
+    "observer"
+  ],
+  "author": "Psilon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexPsilon/vue-intersection-observer/issues"
+  },
+  "homepage": "https://github.com/AlexPsilon/vue-intersection-observer#readme"
+}
